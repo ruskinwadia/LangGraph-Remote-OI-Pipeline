@@ -1,4 +1,4 @@
-# OI LangGraph Pipeline
+# About the Pipeline
 
 This script defines a Python `Pipeline` class that interfaces with a **remote** LangGraph server to manage conversational AI interactions. It handles creating and managing conversation threads, sending user messages, updating conversation state, and retrieving AI-generated responses.
 
