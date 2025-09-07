@@ -8,4 +8,8 @@
 
 ---
 
+**Read more about this Pipeline [Here](https://github.com/ruskinwadia/LangGraph-Remote-OI-Pipeline/blob/main/src/README.md)**
+
+---
+
 Original discussion : [https://github.com/open-webui/open-webui/discussions/13945](https://github.com/open-webui/open-webui/discussions/13945)
