@@ -22,7 +22,7 @@ This script defines a Python `Pipeline` class that interfaces with a **remote** 
 
 ## Usage
 
-This pipeline is designed to be loaded and used within the OpenWebUI Pipelines framework [Openwebui-pipelines](https://github.com/open-webui/pipelines/tree/main).
+This pipeline is designed to be loaded and used within the [Openwebui-pipelines](https://github.com/open-webui/pipelines/tree/main) framework.
 
 ## Configuration
 
